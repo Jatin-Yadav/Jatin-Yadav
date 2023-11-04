@@ -1,3 +1,4 @@
+![logo](https://github.com/jatin-yadav/Jatin-Yadav/blob/main/banner.png)
 <h1 align="center">Hi 👋, I'm Jatin Yadav</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coder GIF" height=250 width=400 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
