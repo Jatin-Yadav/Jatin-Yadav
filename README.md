@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Nextjs**
 
-- 💬 Ask me about **react, mern**
+- 💬 Ask me about **react, mern, express**
 
 - 📫 How to reach me **jatinyadav.dev@gmail.com**
 
